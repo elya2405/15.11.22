@@ -6,6 +6,10 @@ p {
   color: brown;
 }
 img {
-  width: 700;
-  height: 400;
+  width: 700px;
+  height: 400px;
+}
+a {
+  text-decoration: none;
+  margin-top: 100px;
 }
