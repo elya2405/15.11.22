@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-background-image: url(kg.jpg) ;
+background-color:aquamarine ;
 background-size: 1700px;
 background-repeat: repeat;
 }
@@ -14,7 +14,7 @@ h1 {
 }
 p {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: red;
+  color:brown
 }
 ul {
   list-style-type: none;
