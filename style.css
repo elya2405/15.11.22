@@ -2,21 +2,23 @@
   box-sizing: border-box;
 }
 body {
-background-image: url(kg.jpg);
+background-image: url(kg.jpg) ;
 background-size: 1700px;
-background-repeat: no-repeat;
+background-repeat: repeat;
 }
 h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: red;
 }
 ul {
   list-style-type: none;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img {
   width: 700px;
@@ -34,5 +36,5 @@ a {
   padding-bottom: 5px;
   background-color: brown;
   color: black;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
