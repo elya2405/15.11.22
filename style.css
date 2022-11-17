@@ -22,8 +22,9 @@ ul {
   margin-left: -40px;
 }
 img {
-  width: 700px;
-  height: 400px;
+  width: 350px;
+  height: 200px;
+  float: left;
 }
 a {
   text-decoration: none;
