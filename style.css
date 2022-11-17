@@ -3,6 +3,13 @@
 }
 body {
 background-image: url(kg.jpg);
+background-size: 1700px;
+background-repeat: no-repeat;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
